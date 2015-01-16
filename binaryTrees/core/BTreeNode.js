@@ -57,7 +57,7 @@ function printBTreeNode(n) {
 				  /   \
 				 2     3
 				/ \   / \
-			   4   5 6   7
+				4   5 6   7
 
 */
 var rootExOne = new BTreeNode(1);
@@ -71,7 +71,7 @@ rootExOne.rnode.setChildrenVals(6,7);
 				  /   \
 				 2     3
 				/       \
-			   4         7
+				4         7
 
 */
 var rootExTwo = new BTreeNode(1);
@@ -81,9 +81,9 @@ rootExTwo.rnode.setChildrenVals(null,7);
 
 /**
 				       1
-					/	   \
-				   /		\
-				  /   		 \
+				   /	   \
+				  /			\
+				 /   		 \
 				 2        	  3
 				  \     	/   \
 			       4   	   8     9

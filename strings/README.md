@@ -18,8 +18,13 @@ Example:
 "a" is a palindrome.
 ```
 
+Method Stub and test cases
 ```
+JS
+```
+
 Solution
+```
 JS
 ```
 

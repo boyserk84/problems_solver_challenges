@@ -10,12 +10,12 @@ Most of the problems will be accompanied by test cases/unit tests for your conve
 
 ### Choice of Programming Languages
 Currently, I only add solutions/method stubs and unit tests for javascript because
-it has the simplest setup and light-weight among other languages.
+it has the simplest and light-weight setup among other languages.
 
 I'm planning to add more as I have more times adding in.
 
 #### Javascript
-You need
+You will need
 ```
 Node.js installed on your machine
 ```
@@ -26,6 +26,13 @@ and replace YOUR_FILE_NAME.js with your javascript file and press enter
 node YOUR_FILE_NAME.js
 ```
 
+### Table of Contents
+String Problems
+Binary Tree Problems
+Linked List Problems
+
 
 ### Authors/Contributors
+Any feedback/suggestion welcomed! Would like to contribute or add more to the list?
+Please contact me or just making a pull request and tag me in.
 Nate Kemavaha
